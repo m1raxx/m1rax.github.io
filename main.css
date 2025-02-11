@@ -154,7 +154,7 @@
 .u-container-layout.hover .u-section-1 .u-image-1 {
   transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
 } .u-section-2 {
-  background-image: url("images/Untitled-1.jpg");
+  background-image: url("Untitled-1.jpg");
   background-position: 50% 0%;
 }
 
@@ -322,7 +322,7 @@
     margin-bottom: 0;
   }
 } .u-section-3 {
-  background-image: url("images/Untitled-1.jpg");
+  background-image: url("Untitled-1.jpg");
   background-position: 50% 0%;
 }
 
@@ -528,7 +528,7 @@
     font-size: 1.5rem;
   }
 } .u-section-5 {
-  background-image: url("images/Untitled-1.jpg");
+  background-image: url("Untitled-1.jpg");
   background-position: 50% 50%;
 }
 
